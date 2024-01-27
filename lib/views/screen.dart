@@ -1,6 +1,6 @@
-import 'package:calculater/components/Item.dart';
+import 'package:calculater/widgets/Item.dart';
 import 'package:flutter/material.dart';
-import 'models/Item_model.dart';
+import '../models/Item_model.dart';
 
 class Counter extends StatefulWidget {
   const Counter({super.key});
